@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://o08gy1nxqnjw"
+path="res://.godot/imported/roboPuncherMovement.aseprite-b52056b6951cd92517b7420c2d9a45e9.res"
+
+[deps]
+
+source_file="res://sprites/roboPuncherMovement.aseprite"
+dest_files=["res://.godot/imported/roboPuncherMovement.aseprite-b52056b6951cd92517b7420c2d9a45e9.res"]
+
+[params]
+
