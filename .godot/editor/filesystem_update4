@@ -1,1 +1,6 @@
-res://node_2d.tscn
+res://roboPuncher/robo_puncher.tscn
+res://roboPuncher/robo_puncher.gd
+res://scenes/menu.tscn
+res://scenes/levels/level.tscn
+res://sprite_2d.tscn
+res://scenes/node_2d.tscn

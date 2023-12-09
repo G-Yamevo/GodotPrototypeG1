@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://brxe46scwxk6n"
-path="res://.godot/imported/roboPuncher.png-282f19579429c44cee505562c9c6e553.ctex"
+uid="uid://4l7akka087pq"
+path="res://.godot/imported/Layer 1.png-0c2ec1dfab790f1cb8d673aafef7aea9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://roboPuncher.png"
-dest_files=["res://.godot/imported/roboPuncher.png-282f19579429c44cee505562c9c6e553.ctex"]
+source_file="res://roboPuncher/Layer 1.png"
+dest_files=["res://.godot/imported/Layer 1.png-0c2ec1dfab790f1cb8d673aafef7aea9.ctex"]
 
 [params]
 

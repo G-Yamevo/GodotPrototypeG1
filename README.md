@@ -1,2 +1,5 @@
 # GodotPrototypeG1
- Learning Godot
+Learning Godot
+
+
+We all love robots and punching
